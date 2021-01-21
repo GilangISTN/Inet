@@ -1,0 +1,12 @@
+<div style="display: flex; flex-direction: column; padding: 20px 0 60px 0; justify-content: center; align-items: center;">
+    <img src="https://s.kaskus.id/images/2017/08/23/3734379_201708230841360738.jpg">
+    
+    <h2 style="margin: 0; margin-top: 20px;">Selamat Datang Crazy Toys</h2>
+    <h4 style="margin: 0; margin-top: 5px">ayo beli untuk buat hati anda tercinta!</h4>
+
+    <form method="GET" action="index.jsp" style="margin: 0; margin-top: 20px;">
+        <input type="hidden" name="action" value="search">
+        <input type="text" name="keyword" placeholder="Cari mainan">
+        <input type="submit" value="Cari">
+    </form>
+</div>
