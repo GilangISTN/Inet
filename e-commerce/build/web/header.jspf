@@ -1,0 +1,12 @@
+<div style="display: flex; flex-direction: column; padding: 20px 0 60px 0; justify-content: center; align-items: center;">
+    <img src="https://scontent.fcgk27-1.fna.fbcdn.net/v/t1.0-9/141035000_903834323751546_4629205150048817949_n.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_ohc=ppT8e2HKCSsAX9W-aQH&_nc_ht=scontent.fcgk27-1.fna&oh=b553aedf1d6824a22291b5bd8871708d&oe=6032F34E">
+    
+    <h2 style="margin: 0; margin-top: 20px;">Selamat Datang Crazy Toys</h2>
+    <h4 style="margin: 0; margin-top: 5px">ayo beli untuk buat hati anda tercinta!</h4>
+
+    <form method="GET" action="index.jsp" style="margin: 0; margin-top: 20px;">
+        <input type="hidden" name="action" value="search">
+        <input type="text" name="keyword" placeholder="Cari mainan">
+        <input type="submit" value="Cari">
+    </form>
+</div>
